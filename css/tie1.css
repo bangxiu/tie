@@ -1,0 +1,53 @@
+@charset"utf-8";
+*{
+	margin:0;
+	padding:0;
+}
+.top{
+	overflow: hidden;
+	width:750px;
+	height:88px;
+	background:#003345;
+	margin:0 auto;
+}
+.top .iconfont{
+	float: left;
+	line-height: 88px;
+	margin-left:30px;
+}
+.top .biaoti{
+	float: left;
+	font-size:34px;
+	color:#fff;
+	line-height: 88px;
+	margin-left:140px;
+}
+.concent{
+	width: 750px;
+	height:1206px;
+	background:url('../images/铁三01banner.jpg');
+	margin:0 auto;
+	overflow: hidden;
+	position: relative;
+}
+.concent .text{
+	width: 717px;
+	height:402px;
+	margin:650px auto;
+	background:url('../images/tu.png')no-repeat;
+	overflow: hidden;
+
+}
+.xia{
+	position: absolute;
+	bottom:62px;
+	left:350px;
+	margin:0 auto;
+	font-size: 80px;
+}
+.xia a{
+	text-decoration: none;
+}
+.xia .iconfont{
+	font-size: 50px;
+}

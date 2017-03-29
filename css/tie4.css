@@ -1,0 +1,82 @@
+@charset"utf-8";
+*{
+	margin:0;
+	padding:0;
+	list-style: none;
+	text-decoration: none;
+}
+.wrap{
+	width: 750px;
+	margin:0 auto;
+}
+.top{
+	overflow: hidden;
+	width:750px;
+	height:88px;
+	background:#003345;
+	margin:0 auto;
+}
+.top .iconfont{
+	float: left;
+	line-height: 88px;
+	margin-left:30px;
+}
+.top .biaoti{
+	float: left;
+	font-size:34px;
+	color:#fff;
+	line-height: 88px;
+	margin-left:140px;
+}
+.content{
+	width: 750px;
+	margin: 0 auto;
+	background: url(../images/04bg.jpg);
+	height: 1206px;
+	overflow: hidden;
+}
+.content-m{
+	width: 598px;
+	margin: 258px auto;
+}
+.content h1{
+	font-size:28px;
+	color:#1babb8;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.content-one{
+	margin-bottom: 50px;
+	overflow: hidden;
+}
+.content-one p{
+	color:#fff;
+	font-size: 27px;
+}
+.content-one p span{
+	font-size: 30px;
+	color:#1babb8;
+	margin-right: 40px;
+	float: left;
+}
+.content-one .guo{
+	color:#fff;
+	font-size: 27px;
+	width: 410px;
+	float: left;
+}
+.bao a{
+	display: block;
+	width: 200px;
+	background:#1babb8;
+	/*border:none;*/
+	width: 550px;
+	height: 80px;
+	line-height: 80px;
+	text-align:center;
+	margin-left:10px;
+	margin-top:30px;
+	font-size:32px;
+	color:#003649;
+	border-radius: 5px;
+}
